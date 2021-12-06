@@ -21,6 +21,9 @@ node_modules# VSCode
 node_modules/
 creds.js
  
+
+package-lock.json
+
 # Private Files
 # *.json
 *.csv
